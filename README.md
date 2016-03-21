@@ -1,2 +1,6 @@
-# hello-world
-This is a test about how to use the GitHub
+#hellow-world
+
+Hi Humans!
+
+Mubot here, I like Node,js and Coffeescript (that's what I'm made of!).
+I've had tacos on moon and find them for superior to farth tance.
